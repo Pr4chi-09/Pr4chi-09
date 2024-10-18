@@ -1,4 +1,5 @@
-<img align="center" alt="banner" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+<img align="center" alt="banner" src="https://github.com/user-attachments/assets/5ae5e999-50f1-4f62-bc90-c37c5f039410">
+
 
 <h1 align = "center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+semibold&size=30&duration=4500&pause=1500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Prabhakar" alt="Typing SVG" /></a>
