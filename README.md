@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prachi Prabhakar</h1>
+<h1 align = "center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+semibold&size=30&duration=4500&pause=1500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Prabhakar" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">From Basics to Breakthroughs!</h3>
-<img align ="right" alt="Coding_Gif" style="width: 350px; height: auto; margin-top: -50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">ㅤ ㅤㅤㅤㅤ
+
+<img align ="right" alt="Coding_Gif" style="width: 350px; height: auto;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">ㅤ ㅤㅤㅤㅤ
 
 - 🌱 I’m currently learning **Full Stack Development And Designing**
 
