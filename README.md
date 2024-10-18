@@ -1,3 +1,5 @@
+<img align="center" alt="banner" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+
 <h1 align = "center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+semibold&size=30&duration=4500&pause=1500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Prabhakar" alt="Typing SVG" /></a>
 </h1>
@@ -13,7 +15,7 @@
 
 - ⚡ Fun fact **Did you know the first computer bug was an actual bug?**
 
-<h1 style="text-decoration: none;">💻 Tech Stack:</h1>
+<h1>💻 Tech Stack:</h1>
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
