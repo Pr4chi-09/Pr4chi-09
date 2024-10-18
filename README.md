@@ -40,8 +40,8 @@
 </div>--->
 
 # 📈 Github Stats:
-![](https://github-readme-stats.vercel.app/api?username=73LIX&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=73LIX&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Pr4chi-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pr4chi-09&theme=tokyonight&hide_border=false)<br/>
 
 <!---
 Pr4chi-09/Pr4chi-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
