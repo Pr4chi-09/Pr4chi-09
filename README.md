@@ -12,9 +12,7 @@
    
 🌱 I’m currently learning **Full Stack Development And Designing**
 
-💬 Ask me about **Java, C, C++**
-
-📊 Level of experience: Newbie
+💬 Ask me about **Java, C, C++, Html, CSS...or anything**
 
 ⚡ Fun fact **Did you know the first computer bug was an actual bug?**
 </div>
