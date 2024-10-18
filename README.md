@@ -4,17 +4,20 @@
 <h1 align = "center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+semibold&size=30&duration=4500&pause=1500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Prabhakar" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">From Basics to Breakthroughs!</h3>
+<h3 align="center">"From Basics to Breakthroughs!"</h3>
 
-<img align ="right" alt="Coding_Gif" style="width: 320px; height: auto;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">ㅤ ㅤㅤㅤㅤ
+<!---<img align ="right" alt="Coding_Gif" style="width: 320px; height: auto;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">--->ㅤ ㅤㅤㅤㅤ
 
-- 🌱 I’m currently learning **Full Stack Development And Designing**
+<div align = "center">
+   
+🌱 I’m currently learning **Full Stack Development And Designing**
 
-- 💬 Ask me about **Java, C, C++**
+💬 Ask me about **Java, C, C++**
 
-- 📊 Level of experience: Newbie
+📊 Level of experience: Newbie
 
-- ⚡ Fun fact **Did you know the first computer bug was an actual bug?**
+⚡ Fun fact **Did you know the first computer bug was an actual bug?**
+</div>
 
 <h1>💻 Tech Stack:</h1>
 
