@@ -22,7 +22,9 @@
 <h1>💻 Tech Stack:</h1>
 </br>
 <p align="center">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css" /></br><img src="https://skillicons.dev/icons?i=git,github,figma" />
+  </a>
 </p>
 
 <!---### Programming Languages:
