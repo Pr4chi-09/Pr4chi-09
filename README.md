@@ -33,13 +33,16 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
-# 📈 Github Stats:
+<!---# 📈 Github Stats:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=pr4chi-09&show_icons=true&locale=en" alt="pr4chi-09" style="width: 415px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr4chi-09&" alt="pr4chi-09" style="width: 440px;"/>
-</div>
+</div>--->
 
+# 📈 Github Stats:
+![](https://github-readme-stats.vercel.app/api?username=73LIX&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=73LIX&theme=tokyonight&hide_border=false)<br/>
 
 <!---
 Pr4chi-09/Pr4chi-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
