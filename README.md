@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">From Basics to Breakthroughs!</h3>
 
-<img align ="right" alt="Coding_Gif" style="width: 300px; height: auto;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">ㅤ ㅤㅤㅤㅤ
+<img align ="right" alt="Coding_Gif" style="width: 320px; height: auto;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">ㅤ ㅤㅤㅤㅤ
 
 - 🌱 I’m currently learning **Full Stack Development And Designing**
 
