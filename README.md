@@ -2,7 +2,7 @@
 <h3 align="center">From Basics to Breakthroughs!</h3>
 <!---<img align ="right" alt="Coding_Gif" style="width: 350px; height: auto; margin-top: -50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">---!>
 
-<div style="display: flex; justify-content: flex-end; padding-bottom: 50%;">
+<div style="display: flex; justify-content: flex-end;">
   <img align="right" alt="Coding_Gif" style="width: 350px; height: auto;" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 </div>ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤ
 
