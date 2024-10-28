@@ -2,7 +2,7 @@
 
 
 <h1 align = "center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+semibold&size=30&duration=4500&pause=1500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi+Prabhakar" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+semibold&size=30&duration=4500&pause=1500&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prachi" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">"From Basics to Breakthroughs!"</h3>
 
