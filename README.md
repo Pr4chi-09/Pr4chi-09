@@ -26,7 +26,7 @@
 </p>
 
 # 📈 Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Pr4chi-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Github_stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pr4chi-0&theme=tokyonight&hide_border=false" alt="Streak_stats" width="441"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pr4chi-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Github_stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pr4chi-09&theme=tokyonight&hide_border=false" alt="Streak_stats" width="441"/>
 
 <!---# 📈 Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pr4chi-09&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
